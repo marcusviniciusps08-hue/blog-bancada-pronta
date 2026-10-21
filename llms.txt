@@ -1,0 +1,64 @@
+# Oficina em Pauta
+
+> Guias, comparativos e reviews de ferramentas e construção para obra e reparo, a partir dos dados públicos dos anúncios do Mercado Livre, com preço e data de leitura.
+
+Contém links de afiliado Mercado Livre.
+
+## Comparativos
+- [4 escadas e caixas de ferramentas até R$ 110: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/escadas-e-caixas-de-ferramentas-ate-110/)
+- [5 ferramentas manuais até R$ 40: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/ferramentas-manuais-ate-40/)
+- [4 hidráulica, bombas e torneiras até R$ 160: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/hidraulica-bombas-e-torneiras-ate-160/)
+- [4 máquinas, soldagem e construção até R$ 90: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/maquinas-soldagem-e-construcao-ate-90/)
+- [5 tintas, vedação e acabamento até R$ 70: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/tintas-vedacao-e-acabamento-ate-70/)
+
+## Guias
+- [Como escolher escada ou caixa: o que olhar na ficha antes de gastar (de R$ 39,99 a R$ 194)](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/guia/como-escolher-escada-ou-caixa/)
+- [Como escolher ferramenta manual: o que olhar na ficha antes de gastar (de R$ 21,90 a R$ 49,97)](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/guia/como-escolher-ferramenta-manual/)
+- [Como escolher item hidráulico: o que olhar na ficha antes de gastar (de R$ 25,11 a R$ 360)](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/guia/como-escolher-item-hidraulico/)
+- [Como escolher máquina: o que olhar na ficha antes de gastar (de R$ 29,75 a R$ 311,88)](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/guia/como-escolher-maquina/)
+- [Como escolher item de acabamento: o que olhar na ficha antes de gastar (de R$ 19 a R$ 236,90)](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/guia/como-escolher-item-de-acabamento/)
+
+## Reviews
+- [Bolsa Maleta De Ferramentas Grande 18 Polegadas Reforçada: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/bolsa-maleta-de-ferramentas-grande-18-polegadas-reforcada-4ef17b/)
+- [Caixa De Ferramentas Sanfonada Tramontina 7 Gavetas Azul em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/caixa-de-ferramentas-sanfonada-tramontina-7-gavetas-azul-9990cc/)
+- [Caixa De Ferramentas Tática 18.3pol. - 013601026 -: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/caixa-de-ferramentas-tatica-18-3pol-013601026-dff5e3/)
+- [Caixa De Ferramentas Tática Cinza 18,3 Polegadas Metasul: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/caixa-de-ferramentas-tatica-cinza-18-3-polegadas-metasul-726862/)
+- [Caixa Para Ferramentas Tramontina Master Sanfonada 43800/005 Azul: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/caixa-para-ferramentas-tramontina-master-sanfonada-43800-005-azul-ed2b2e/)
+- [Caixa metálica sanfonada para ferramentas, com 3 gavetas,: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/caixa-metalica-sanfonada-para-ferramentas-com-3-gavetas-f9687e/)
+- [Escada Alumínio 3 Degraus em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/escada-aluminio-3-degraus-ac64bf/)
+- [Escada Alumínio 4 Degraus MOR Prateado/Azul: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/escada-aluminio-4-degraus-mor-prateado-azul-0ae272/)
+- [Lanterna Mais Forte Do Mundo Recarregável Tática Potente: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/lanterna-mais-forte-do-mundo-recarregavel-tatica-potente-d85dfd/)
+- [Lanterna Militar Tática Led Cree Recarregável Mais Forte em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/lanterna-militar-tatica-led-cree-recarregavel-mais-forte-c6fcda/)
+- [Lanterna Tática Militar Recarregável Led Cree Mais Forte: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/lanterna-tatica-militar-recarregavel-led-cree-mais-forte-2b41e2/)
+- [Lanterna Tática Militar T9 Mais Forte Do Mundo: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/lanterna-tatica-militar-t9-mais-forte-do-mundo-d0aee4/)
+- [Lanterna Tática T9 Mais Forte Do Mundo Led: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/lanterna-tatica-t9-mais-forte-do-mundo-led-c8fd40/)
+- [Lanterna Uv Led Luz Negra Roxa Ultravioleta Detecta: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/lanterna-uv-led-luz-negra-roxa-ultravioleta-detecta-0e1ecc/)
+- [Lanterna de Cabeça YBF Recarregável USB, com 5 em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/lanterna-de-cabeca-ybf-recarregavel-usb-com-5-ac8a82/)
+- [Pino de Fixação com Arruela de Aço Galvanizado: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/pino-de-fixacao-com-arruela-de-aco-galvanizado-f818b2/)
+- [Acabamento Para Registro Base Docol Pressão Ou Gaveta: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/acabamento-para-registro-base-docol-pressao-ou-gaveta-1ccc98/)
+- [Bomba D´água Periférica 1/2 Hp Bp500 Intech Machine: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/bomba-d-agua-periferica-1-2-hp-bp500-intech-machine-202847/)
+- [Bomba D’Água Motobomba Periférica 1/2 CV BP60 Lepono: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/bomba-dagua-motobomba-periferica-1-2-cv-bp60-lepono-4af584/)
+- [Bomba Periférica Água Eurobombas Qb60 1/2cv Monofasica em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/bomba-periferica-agua-eurobombas-qb60-1-2cv-monofasica-bc9212/)
+- [Bomba Pressurizadora 120 Watts 1600l - Intech Machine: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/bomba-pressurizadora-120-watts-1600l-intech-machine-2c900c/)
+- [Bomba Submersa Caneta Intech Machine BSCA2 1/4 HP,: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/bomba-submersa-caneta-intech-machine-bsca2-1-4-hp-ff8694/)
+- [Ferrari Motobomba periférica 1/2 hp monofásica Acquaflow: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/ferrari-motobomba-periferica-1-2-hp-monofasica-acquaflow-33102d/)
+- [Kit Reparo Caixa Acoplada Completo Mecanismo Universal: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/kit-reparo-caixa-acoplada-completo-mecanismo-universal-47d376/)
+- [2Serra Mármore 110mm 1300W Com 2 Discos 4100NH3ZX2: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/2serra-marmore-110mm-1300w-com-2-discos-4100nh3zx2-a16643/)
+- [48 Peças Disco De Corte Extra Fino 4.1/2: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/48-pecas-disco-de-corte-extra-fino-4-1-2-96a047/)
+- [5 Discos De Corte Vidro Porcelanato Diamantado Disco em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/5-discos-de-corte-vidro-porcelanato-diamantado-disco-87d27d/)
+- [Bomba Elétrica Portátil Digital Para Encher Pneu De: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/bomba-eletrica-portatil-digital-para-encher-pneu-de-e03cb8/)
+- [Esmerilhadeira Bosch 4,5" 220V 710W GWS 700 06013A30E0 em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/esmerilhadeira-bosch-4-5-220v-710w-gws-700-06013a30e0-860b86/)
+- [Kit com 10 Discos Flap de Desbaste Galzer: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/kit-com-10-discos-flap-de-desbaste-galzer-20c4c6/)
+- [Mini Compressor Digital Portátil Cartel Barber Shop para: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/mini-compressor-digital-portatil-cartel-barber-shop-para-b152a4/)
+- [Máscara de Solda Automática PCR-912 Com Tripla Regulagem: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/mascara-de-solda-automatica-pcr-912-com-tripla-regulagem-dd21fc/)
+- [Cola Instantânea 793 20g - Bico Antientupimento Tekbond: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/cola-instantanea-793-20g-bico-antientupimento-tekbond-fc2127/)
+- [Latex acrílica tinta coral anti mofo branco 18l em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/latex-acrilica-tinta-coral-anti-mofo-branco-18l-f3cd36/)
+- [Manta Líquida Emborrachada Impermeabilizante 3,6kg em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/manta-liquida-emborrachada-impermeabilizante-3-6kg-2473bb/)
+- [Pistola Aplicador Silicone Pu Aberto Catraca Metálica Aplicador: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/pistola-aplicador-silicone-pu-aberto-catraca-metalica-aplicador-6f8f75/)
+- [Pistola De Pintura E Pulverizadora Elétrica Portátil Hvlp: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/pistola-de-pintura-e-pulverizadora-eletrica-portatil-hvlp-c97280/)
+- [Pistola De Pintura S990 Bico 1.5 Gravidade Caneca: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/pistola-de-pintura-s990-bico-1-5-gravidade-caneca-455ced/)
+- [Pistola Pintura Gravidade 600ml 3 Bicos 1.2 1.5: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/pistola-pintura-gravidade-600ml-3-bicos-1-2-1-5-b95007/)
+- [Pistola de Pintura Profissional HVLP 600ml 1.4mm PDR: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/pistola-de-pintura-profissional-hvlp-600ml-1-4mm-pdr-b2f785/)
+
+## Sobre
+- [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/sobre/)
