@@ -1,21 +1,21 @@
 # Oficina em Pauta
 
-> Guias, comparativos e reviews de ferramentas e construção para obra e reparo, a partir dos dados públicos dos anúncios do Mercado Livre, com preço e data de leitura.
+> Guias, comparativos e reviews de ferramentas e construção para obra e reparo, a partir dos dados públicos dos anúncios (Mercado Livre e Shopee), com preço e data de leitura.
 
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [4 escadas e caixas de ferramentas até R$ 110: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/escadas-e-caixas-de-ferramentas-ate-110/)
-- [5 ferramentas manuais até R$ 40: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/ferramentas-manuais-ate-40/)
-- [4 hidráulica, bombas e torneiras até R$ 160: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/hidraulica-bombas-e-torneiras-ate-160/)
-- [4 máquinas, soldagem e construção até R$ 90: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/maquinas-soldagem-e-construcao-ate-90/)
-- [5 tintas, vedação e acabamento até R$ 70: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/tintas-vedacao-e-acabamento-ate-70/)
+- [4 escadas e caixas de ferramentas até R$ 120: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/escadas-e-caixas-de-ferramentas-ate-120/)
+- [5 ferramentas manuais até R$ 40: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/ferramentas-manuais-ate-40/)
+- [4 hidráulica, bombas e torneiras até R$ 160: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/hidraulica-bombas-e-torneiras-ate-160/)
+- [4 máquinas, soldagem e construção até R$ 90: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/maquinas-soldagem-e-construcao-ate-90/)
+- [5 tintas, vedação e acabamento até R$ 60: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/tintas-vedacao-e-acabamento-ate-60/)
 
 ## Guias
 - [Como escolher escada ou caixa: o que olhar na ficha antes de gastar (de R$ 39,99 a R$ 194)](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/guia/como-escolher-escada-ou-caixa/)
-- [Como escolher ferramenta manual: o que olhar na ficha antes de gastar (de R$ 21,90 a R$ 49,97)](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/guia/como-escolher-ferramenta-manual/)
+- [Como escolher ferramenta manual: o que olhar na ficha antes de gastar (de R$ 20,90 a R$ 49,97)](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/guia/como-escolher-ferramenta-manual/)
 - [Como escolher item hidráulico: o que olhar na ficha antes de gastar (de R$ 25,11 a R$ 360)](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/guia/como-escolher-item-hidraulico/)
-- [Como escolher máquina: o que olhar na ficha antes de gastar (de R$ 29,75 a R$ 311,88)](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/guia/como-escolher-maquina/)
+- [Como escolher máquina: o que olhar na ficha antes de gastar (de R$ 27,15 a R$ 311,88)](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/guia/como-escolher-maquina/)
 - [Como escolher item de acabamento: o que olhar na ficha antes de gastar (de R$ 19 a R$ 236,90)](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/guia/como-escolher-item-de-acabamento/)
 
 ## Reviews
@@ -51,6 +51,9 @@ Contém links de afiliado Mercado Livre.
 - [Kit com 10 Discos Flap de Desbaste Galzer: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/kit-com-10-discos-flap-de-desbaste-galzer-20c4c6/)
 - [Mini Compressor Digital Portátil Cartel Barber Shop para: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/mini-compressor-digital-portatil-cartel-barber-shop-para-b152a4/)
 - [Máscara de Solda Automática PCR-912 Com Tripla Regulagem: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/mascara-de-solda-automatica-pcr-912-com-tripla-regulagem-dd21fc/)
+- [Kit Prateleira Expositora Acrílica Transparente para Doces e: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/kit-prateleira-expositora-acrilica-transparente-para-doces-e-046789/)
+- [Mouse Pad Desk Pad Couro Borda Costurada Gigante em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/mouse-pad-desk-pad-couro-borda-costurada-gigante-33fb23/)
+- [Placa Pix Acrílico para QR Code - Suporte: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/placa-pix-acrilico-para-qr-code-suporte-96101f/)
 - [Cola Instantânea 793 20g - Bico Antientupimento Tekbond: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/cola-instantanea-793-20g-bico-antientupimento-tekbond-fc2127/)
 - [Latex acrílica tinta coral anti mofo branco 18l em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/latex-acrilica-tinta-coral-anti-mofo-branco-18l-f3cd36/)
 - [Manta Líquida Emborrachada Impermeabilizante 3,6kg em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/review/manta-liquida-emborrachada-impermeabilizante-3-6kg-2473bb/)
