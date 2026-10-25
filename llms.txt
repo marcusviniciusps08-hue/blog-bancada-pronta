@@ -5,14 +5,14 @@
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [4 escadas e caixas de ferramentas até R$ 110: comparativo com preços de 24/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/escadas-e-caixas-de-ferramentas-ate-110/)
-- [5 ferramentas manuais até R$ 40: comparativo com preços de 24/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/ferramentas-manuais-ate-40/)
-- [5 hidráulica, bombas e torneiras até R$ 150: comparativo com preços de 24/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/hidraulica-bombas-e-torneiras-ate-150/)
-- [4 máquinas, soldagem e construção até R$ 90: comparativo com preços de 24/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/maquinas-soldagem-e-construcao-ate-90/)
-- [5 tintas, vedação e acabamento até R$ 60: comparativo com preços de 24/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/tintas-vedacao-e-acabamento-ate-60/)
+- [4 escadas e caixas de ferramentas até R$ 110: comparativo com preços de 25/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/escadas-e-caixas-de-ferramentas-ate-110/)
+- [5 ferramentas manuais até R$ 40: comparativo com preços de 25/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/ferramentas-manuais-ate-40/)
+- [5 hidráulica, bombas e torneiras até R$ 150: comparativo com preços de 25/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/hidraulica-bombas-e-torneiras-ate-150/)
+- [4 máquinas, soldagem e construção até R$ 90: comparativo com preços de 25/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/maquinas-soldagem-e-construcao-ate-90/)
+- [5 tintas, vedação e acabamento até R$ 70: comparativo com preços de 25/10](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/top/tintas-vedacao-e-acabamento-ate-70/)
 
 ## Guias
-- [Como escolher escada ou caixa: o que olhar na ficha antes de gastar (de R$ 37,99 a R$ 194)](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/guia/como-escolher-escada-ou-caixa/)
+- [Como escolher escada ou caixa: o que olhar na ficha antes de gastar (de R$ 37,54 a R$ 194)](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/guia/como-escolher-escada-ou-caixa/)
 - [Como escolher ferramenta manual: o que olhar na ficha antes de gastar (de R$ 20,90 a R$ 49,97)](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/guia/como-escolher-ferramenta-manual/)
 - [Como escolher item hidráulico: o que olhar na ficha antes de gastar (de R$ 25,11 a R$ 360)](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/guia/como-escolher-item-hidraulico/)
 - [Como escolher máquina: o que olhar na ficha antes de gastar (de R$ 27,15 a R$ 311,88)](https://marcusviniciusps08-hue.github.io/blog-bancada-pronta/guia/como-escolher-maquina/)
